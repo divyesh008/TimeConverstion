@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{14330504-C8D3-4836-8CFA-CE255FB7B965}|Default">
+  <MonoDevelop.Ide.ItemProperties.TimeZoneConversion.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeZoneConversion/App.xaml.cs">
+    <Files>
+      <File FileName="TimeZoneConversion/MainPage.xaml" Line="19" Column="41" />
+      <File FileName="TimeZoneConversion/Converters/UtcToZonedDateTimeConverter.cs" Line="69" Column="1" />
+      <File FileName="TimeZoneConversion/MainPage.xaml.cs" Line="10" Column="1" />
+      <File FileName="TimeZoneConversion.iOS/AppDelegate.cs" Line="30" Column="10" />
+      <File FileName="TimeZoneConversion/App.xaml.cs" Line="26" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimeZoneConversion" expanded="True">
+            <Node name="TimeZoneConversion" expanded="True">
+              <Node name="Converters" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TimeZoneConversion.Android" expanded="True" />
+            <Node name="TimeZoneConversion.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TimeZoneConversion.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3FF09D3A-3028-4192-8D09-21955D4BD67B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
